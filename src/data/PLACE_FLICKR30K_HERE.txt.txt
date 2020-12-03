@@ -1,0 +1,1 @@
+You should put the Flickr30K images folder in this data folder. Be sure to remove any non-image files in the folder.
