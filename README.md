@@ -1,5 +1,5 @@
 # SalientCaptioning
-Salient Image Caption Generation with Initial Utterances of Localized Narratives. This was work completed for a class project, for CS 3730 at the University of Pittsburgh.
+Salient Image Caption Generation with Initial Sentences of Localized Narratives. This was work completed for a class project, for CS 3730 at the University of Pittsburgh.
 
 ## Pre-Reqs
 - Python 3.x
