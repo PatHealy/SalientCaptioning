@@ -25,3 +25,4 @@ Salient Image Caption Generation with Initial Sentences of Localized Narratives.
 ## Citations
 - Annotation data is taken from [Localized Narratives](https://google.github.io/localized-narratives/)
 - Captioning Model based heavily on [a tutorial by Jason Brownlee](https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/)
+- Sources of external code (i.e. code not written by me) is noted at the top of every file.
